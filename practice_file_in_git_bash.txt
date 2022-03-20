@@ -1,2 +1,3 @@
 launched git bash in D drive
 practicing in git bash
+ editing git push file 
